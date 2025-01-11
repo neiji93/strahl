@@ -1,3 +1,6 @@
+seems simple framework to manipulate lobes. at first, the fork was intendes to check a btdf framework.
+
+
 # strahl 💫
 
 [![Test Pipeline](https://github.com/StuckiSimon/strahl/actions/workflows/test-pipeline.yml/badge.svg)](https://github.com/StuckiSimon/strahl/actions/workflows/test-pipeline.yml)
